@@ -1,8 +1,8 @@
-resource "aws_vpc" "vpctiago7" {
+resource "aws_vpc" "vpc_tiago" {
   cidr_block = "172.16.0.0/16"
 
   tags = {
-    Name = "vpcptiago7"
+    Name = "vpc_tiago"
   }
 }
 

@@ -10,3 +10,4 @@ terraform {
 # aqui é onde escolhemos a região e as Key do usuario para criação IAM
 provider "aws" {
   region     = "us-east-2"
+}
