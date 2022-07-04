@@ -1,10 +1,10 @@
-# Projeto - Terraform ~ Docker   
+# Projeto - AWS -  
 [![NPM](https://img.shields.io/npm/l/react)](https://github.com/tiagodfigueiredo7/awsterralt/blob/main/LICENCE) 
 
 # Sobre o projeto
 
-Nesse Proejeto usamos um servidor Ec2 na Aws com Docker, um Container com a imagem do Terraform. 
-Após o ambiente todo pronto, vamos aplicar: 
+Nesse Proejeto usamos um servidor Ec2 na Aws  imagem do Terraform. 
+Nesse Projeto uso o ambiente padrão para subir uma Ec2 com S3 seguindo boas praticas. ! 
 
 #  Infra Cloud
 
